@@ -1,0 +1,5 @@
+obj\Release\ResolveAssemblyReference.cache
+bin\Release\XmlObject.dll
+bin\Release\XmlObject.pdb
+obj\Release\XmlObject.dll
+obj\Release\XmlObject.pdb
